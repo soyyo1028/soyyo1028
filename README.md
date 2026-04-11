@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm Soyyo, a High school student, focused on **Cybersecurity** and **Programming**
+I'm Soyyo, a High school student from Guatemala, focused on **Cybersecurity** and **Programming**
 
 Interested in **ethical hacking** and **automation**
 
