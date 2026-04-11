@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hey, I'm Soyyo
 
-<!--
-**soyyo1028/soyyo1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High School Student
+💻 Focused on Cybersecurity & Programming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* Interested in **ethical hacking** and **automation**
+* Building projects to improve my programming logic
+* Constantly learning new technologies and tools
+
+---
+
+## ⚙️ Tech & Tools
+
+* 💻 Languages: **Python, HTML**
+* 🛠️ Tools: **VS Code, Git, VMware**
+* 🐧 Systems: **Kali Linux**
+* 🔐 Areas: **Cybersecurity, Automation**
+
+---
+
+## 🚧 Currently Working On
+
+* Developing a **YouTube Music-style app**
+  → With customizable themes (inspired by Discord UI)
+
+* Improving:
+
+  * Programming logic
+  * Code structure
+  * Problem-solving skills
+
+---
+
+## 🎯 Goals
+
+* Become a professional in **Cybersecurity**
+* Build useful and secure applications
+* Keep growing as a developer
+
+---
+
+## 📫 Contact
+
+* Discord: **s0yyo.**
+
+---
+
+## ⚡ Notes
+
+> Always learning. Always building.
