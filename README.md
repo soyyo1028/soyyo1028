@@ -16,14 +16,14 @@ Learning new languages and technologies!
 
 **⚙️ Tools & Technologies**
 
-* **Languages:** Python, HTML
-* **Tools:** VS Code, Git, VMware
-* **Systems:** Kali Linux
-* **Areas:** Cybersecurity, Automation
+**Languages:** Python, HTML
+**Tools:** VS Code, VMware
+**Systems:** Kali Linux, Windows
+**Areas:** Cybersecurity
 
 **📫 Contact**
 
-* Discord: **s0yyo.**
+**Discord:** s0yyo.
 
 ---
 
