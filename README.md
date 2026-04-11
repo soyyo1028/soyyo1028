@@ -17,8 +17,10 @@ Learning new languages and technologies!
 **⚙️ Tools & Technologies**
 
 **Languages:** Python, HTML
+
 **Tools:** VS Code, VMware
-**Systems:** Kali Linux, Windows
+
+**Systems:** Kali Linux, Windows\n
 **Areas:** Cybersecurity
 
 **📫 Contact**
