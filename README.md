@@ -20,7 +20,8 @@ Learning new languages and technologies!
 
 **Tools:** VS Code, VMware
 
-**Systems:** Kali Linux, Windows\n
+**Systems:** Kali Linux, Windows
+
 **Areas:** Cybersecurity
 
 **📫 Contact**
