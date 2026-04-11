@@ -1,12 +1,12 @@
 # 👋 Hey there!
 
-**🕵️‍♂️ Who am I**
+**🕵️‍♂️ Who am I?**
 
 I'm Soyyo, a High school student from Guatemala, focused on **Cybersecurity** and **Programming**
 
 Interested in **ethical hacking** and **automation**
 
-Constantly learning and improving my skills
+Constantly learning and improving my general skills
 
 Building programs to improve my **programming skills**
 
