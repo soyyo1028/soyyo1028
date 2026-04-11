@@ -2,15 +2,11 @@
 
 **🕵️‍♂️ Who am I?**
 
-I'm Soyyo, a High school student from Guatemala, focused on **Cybersecurity** and **Programming**
+I'm Soyyo, a High school student from Guatemala, focused on **Cybersecurity** and **Programming**.
 
-Interested in **ethical hacking** and **automation**
+Building programs to improve my **programming skills**.
 
-Constantly learning and improving my general skills
-
-Building programs to improve my **programming skills**
-
-Currently developing a **YouTube Music-style app** with customizable themes
+Currently developing a **YouTube Music-style app** with customizable themes.
 
 Learning new languages and technologies!
 
