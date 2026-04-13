@@ -18,8 +18,6 @@ Learning new languages and technologies!
 
 **Systems:** Kali Linux, Windows
 
-**Areas:** Cybersecurity
-
 **📫 Contact**
 
 **Discord:** s0yyo.
