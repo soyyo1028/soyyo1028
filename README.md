@@ -1,27 +1,27 @@
 # 👋 Hey there!
 
-**🕵️‍♂️ Who am I?**
+**✭ Who am I? ✭**
 
-I'm Soyyo, a High school student from Guatemala, focused on **Cybersecurity** and **Programming**.
+I'm Soyyo, a high school student from Guatemala, passionate about Cybersecurity and Programming.
 
-Building programs to improve my **programming skills**.
+Focused on developing skills in ethical hacking, system security, and secure software development.
 
-Currently developing a **YouTube Music-style app** with customizable themes.
+Building projects to strengthen my understanding of vulnerabilities, defenses, and real-world security practices.
 
-Learning new languages and technologies!
+Currently studying cybersecurity and taking courses to expand my knowledge and practical skills.
 
-**⚙️ Tools & Technologies**
+Always learning new technologies, tools, and techniques in cybersecurity.
+
+__✭ Tools & Technologies ✭__
 
 **Languages:** Python, HTML
-
 **Tools:** VS Code, VMware
-
 **Systems:** Kali Linux, Windows
 
-**📫 Contact**
+__✭ Contact ✭__
 
-**Discord:** s0yyo.
+Discord: s0yyo.
 
 ---
 
-> Keep learning. Keep building. Fail and try again.
+> Keep learning. Keep building. Fail and try again. Don't give up.
