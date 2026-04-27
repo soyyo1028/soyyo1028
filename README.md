@@ -14,9 +14,9 @@ Always learning new technologies, tools, and techniques in cybersecurity.
 
 __✭ Tools & Technologies ✭__
 
-**Languages:** Python, HTML
-**Tools:** VS Code, VMware
-**Systems:** Kali Linux, Windows
+**Languages:** Python, HTML<br>
+**Tools:** VS Code, VMware<br>
+**Systems:** Kali Linux, Windows<br>
 
 __✭ Contact ✭__
 
