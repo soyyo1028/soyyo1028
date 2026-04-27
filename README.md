@@ -2,7 +2,7 @@
 
 **✭ Who am I? ✭**
 
-I'm Soyyo, a high school student from Guatemala, passionate about Cybersecurity and Programming.
+I'm Adrian, a high school student from Guatemala, passionate about Cybersecurity and Programming.
 
 Focused on developing skills in ethical hacking, system security, and secure software development.
 
