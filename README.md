@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-**✭ Who am I? ✭**
+## ✭ Who am I? ✭
 
 I'm Adrian, a high school student from Guatemala, passionate about Cybersecurity and Programming.
 
@@ -12,13 +12,13 @@ Currently studying cybersecurity and taking courses to expand my knowledge and p
 
 Always learning new technologies, tools, and techniques in cybersecurity.
 
-__✭ Tools & Technologies ✭__
+## Tools & Technologies 
 
 **Languages:** Python, HTML<br>
 **Tools:** VS Code, VMware<br>
 **Systems:** Kali Linux, Windows<br>
 
-__✭ Contact ✭__
+## Contact 
 
 Discord: s0yyo.
 
