@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-## ✭ Who am I? ✭
+## Who am I? 
 
 I'm Adrian, a high school student from Guatemala, passionate about Cybersecurity and Programming.
 
