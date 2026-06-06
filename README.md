@@ -8,13 +8,13 @@ Focused on developing skills in ethical hacking, system security, and secure sof
 
 Building projects to strengthen my understanding of vulnerabilities, defenses, and real-world security practices.
 
-Currently studying cybersecurity and taking courses to expand my knowledge and practical skills.
+Currently studying cybersecurity on my own to expand my knowledge and practical skills.
 
-Always learning new technologies, tools, and techniques in cybersecurity.
+I'm always learning new technologies, tools, and techniques in cybersecurity.
 
 ## Tools & Technologies 
 
-**Languages:** Python, HTML<br>
+**Languages:** Python, HTML, CSS<br>
 **Tools:** VS Code, VMware<br>
 **Systems:** Kali Linux, Windows<br>
 
@@ -24,4 +24,4 @@ Discord: s0yyo.
 
 ---
 
-> Keep learning. Keep building. Fail and try again. Don't give up.
+> > Keep learning. Keep building. Fail and try again. Don't give up. <
