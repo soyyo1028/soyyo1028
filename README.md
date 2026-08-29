@@ -1,24 +1,20 @@
-# Welcome to my profile
+# Welcome to my Profile
 
 ## Who am I? 
 
-I'm Adrian, a high school student from Guatemala, passionate about Cybersecurity and Programming.
+I'm Soyyo, a high school student, a guy trying to learn things about Cybersecurity and IT in general.
 
-Focused on developing skills in ethical hacking, system security, and secure software development.
+I'm focused on developing skills in ethical hacking, system security, and secure software development.
 
-Building projects to strengthen my understanding of vulnerabilities, defenses, and real-world security practices.
+Trying to build projects for personal use, cuz why not?
 
 Currently studying cybersecurity on my own to expand my knowledge and practical skills.
 
-I'm always learning new technologies, tools, and techniques in cybersecurity.
-
-## Tools & Technologies 
+## Tools & Technologies I currently use
 
 **Languages:** Python, HTML, CSS<br>
 **Tools:** VS Code, VMware<br>
-**Systems:** Kali Linux, Windows<br>
-
-## Contact 
+**Systems:** Kali Linux, Windows<br> 
 
 Discord: s0yyo.
 
