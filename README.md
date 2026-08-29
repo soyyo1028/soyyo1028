@@ -10,16 +10,18 @@ I build projects for personal use, cuz why not?
 
 Currently studying cybersecurity on my own to expand my knowledge and practical skills.
 
+## ‎ 
+
+‎
 ## Tools & Technologies I currently use
 
 **Languages:** Python, HTML, CSS<br>
 **Tools:** VS Code, VMware<br>
 **Systems:** Kali Linux, Windows<br> 
 
-
 ## ‎ 
 
-Discord: s0yyo.
+**Discord:** s0yyo.
 
 ---
 ⠀⠀⠀⠀⠀⠀
