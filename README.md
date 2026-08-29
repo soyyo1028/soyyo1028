@@ -6,7 +6,7 @@ I'm Soyyo, a high school student, a guy trying to learn things about Cybersecuri
 
 I'm focused on developing skills in ethical hacking, system security and those type of things.
 
-Trying to build projects for personal use, cuz why not?
+I build projects for personal use, cuz why not?
 
 Currently studying cybersecurity on my own to expand my knowledge and practical skills.
 
