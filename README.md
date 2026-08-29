@@ -1,5 +1,4 @@
 # Welcome to my Profile
-
 ## Who am I? 
 
 I'm Soyyo, a high school student, a guy trying to learn things about Cybersecurity and IT in general.
@@ -11,7 +10,6 @@ I build projects for personal use, cuz why not?
 Currently studying cybersecurity on my own to expand my knowledge and practical skills.
 
 ## ‎ 
-
 ‎
 ## Tools & Technologies I currently use
 
@@ -20,7 +18,6 @@ Currently studying cybersecurity on my own to expand my knowledge and practical 
 **Systems:** Kali Linux, Windows<br> 
 
 ## ‎ 
-
 **Discord:** s0yyo.
 
 ---
