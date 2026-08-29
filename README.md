@@ -20,4 +20,4 @@ Discord: s0yyo.
 
 ---
 
-> \> Keep learning. Keep building. Fail and try again. Don't give up. <
+> \> ------------------------------------------------------------------------------------------------- <
