@@ -1,4 +1,4 @@
-# 👋 Hey there!
+# Welcome to my profile
 
 ## Who am I? 
 
