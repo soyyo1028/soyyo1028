@@ -16,6 +16,9 @@ Currently studying cybersecurity on my own to expand my knowledge and practical 
 **Tools:** VS Code, VMware<br>
 **Systems:** Kali Linux, Windows<br> 
 
+
+## ‎ 
+
 Discord: s0yyo.
 
 ---
