@@ -4,7 +4,7 @@
 
 I'm Soyyo, a high school student, a guy trying to learn things about Cybersecurity and IT in general.
 
-I'm focused on developing skills in ethical hacking, system security, and secure software development.
+I'm focused on developing skills in ethical hacking, system security, those type of things.
 
 Trying to build projects for personal use, cuz why not?
 
